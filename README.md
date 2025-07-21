@@ -1,10 +1,11 @@
 ## Hi there 👋
 
+- 🇳🇴 (Soon to be) PhD student at University in Bergen in Algorithms.
+- 🇨🇿 Charles University in Prague graduate in computer science.
+- 🌳 A developer of [rodoc app](https://rodoc.codeberg.page)
+- 🌲 Advent of Code fan
+
 <!--
-**metury/metury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
